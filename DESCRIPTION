@@ -1,0 +1,10 @@
+Package: epalmer
+Title: My Personal R Package with Usful Functions
+Version: 0.0.0.9000
+Authors@R: person("Elliot", "Palmer", email = "epalmer@lb.com", role = c("aut", "cre"))
+Description: A compilation of utility functions I've put together over time.
+Depends: R (>= 3.4.1)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
